@@ -1,0 +1,51 @@
+id,producto,precio,unidades_vendidas,stock
+1,camiseta,0,0,0
+2,pantalon,0,0,0
+3,zapatos,0,0,0
+4,gorra,0,0,0
+5,chaqueta,0,0,0
+6,calcetines,0,0,0
+7,mochila,0,0,0
+8,reloj,0,0,0
+9,gafas,0,0,0
+10,bufanda,0,0,0
+11,guantes,0,0,0
+12,cinturon,0,0,0
+13,corbata,0,0,0
+14,vestido,0,0,0
+15,falda,0,0,0
+16,blusa,0,0,0
+17,abrigo,0,0,0
+18,chaleco,0,0,0
+19,sandalias,0,0,0
+20,botas,0,0,0
+21,traje,0,0,0
+22,bikini,0,0,0
+23,pijama,0,0,0
+24,sudadera,0,0,0
+25,polo,0,0,0
+26,camisa,0,0,0
+27,jeans,0,0,0
+28,shorts,0,0,0
+29,ropa interior,0,0,0
+30,zapatillas,0,0,0
+31,bolso,0,0,0
+32,maleta,0,0,0
+33,cartera,0,0,0
+34,anillo,0,0,0
+35,collar,0,0,0
+36,pendientes,0,0,0
+37,pulsera,0,0,0
+38,sombrero,0,0,0
+39,pañuelo,0,0,0
+40,mascarilla,0,0,0
+41,bata,0,0,0
+42,chaqueta de cuero,0,0,0
+43,chaqueta de invierno,0,0,0
+44,paraguas,0,0,0
+45,remera,0,0,0
+46,top,0,0,0
+47,mono,0,0,0
+48,camiseta de deporte,0,0,0
+49,zapatos de deporte,0,0,0
+50,calcetines de deporte,0,0,0
